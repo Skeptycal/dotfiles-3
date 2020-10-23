@@ -1,7 +1,7 @@
 {
   "//": "    ln -sf $HOME/code/dotfiles/node_modules $HOME/.node_libraries     ",
   "devDependencies": {
-    "eslint": "^3.19.0",
+    "eslint": "^7.11.0",
     "eslint-config-google": "^0.7.1",
     "eslint-config-kentcdodds": "^12.2.1",
     "eslint-config-xo": "^0.18.1",
